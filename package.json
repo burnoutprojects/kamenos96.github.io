@@ -1,0 +1,21 @@
+{
+  "name": "kamenos96-portfolio",
+  "version": "1.0.0",
+  "description": "My personal portfolio",
+  "main": "index.html",
+  "repository": "git@github.com:kamenos96/kamenos96.github.io.git",
+  "author": "Antonis Triantafyllopoulos <antonistri96@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "browser-sync": "^2.23.6",
+    "gulp": "^3.9.1",
+    "gulp-gh-pages": "^0.5.4",
+    "gulp-sass": "^3.1.0"
+  },
+  "dependencies": {
+    "bootstrap": "^4.0.0",
+    "jquery": "^3.3.1",
+    "popper.js": "^1.12.9"
+  }
+}
